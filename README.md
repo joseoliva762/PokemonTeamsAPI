@@ -15,4 +15,4 @@ Definir una API para gestionar nuestro equipo pokemon.
 - Intercambiar el orden de nuestro pokemon: PUT /teams (Done)
 - Sistema de credenciales
     - Loguear al usuario POST /login (Done)
-    - Registrar al usuario POST /singup
+    - Registrar al usuario POST /singup (Done)
